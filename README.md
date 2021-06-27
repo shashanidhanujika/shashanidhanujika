@@ -5,13 +5,15 @@
 <h1 align="center">Hi 👋, I'm shashani dhanujika</h1>
 - 🔭 I’m currently working on a CodeIgniter project
 
-- 👯 I’m looking to collaborate on **CodeIgniter**
+- 👯 I’m looking to collaborate on **any project ideas**
 
 - 📝 I regularly write articles on [https://medium.com/@shashanidhanujika](https://medium.com/@shashanidhanujika)
 
 - 💬 Ask me about **any Tech related stuff**
 
 - 📫 How to reach me **shashanidhanujika@gmail.com**
+
+- Rechout me for any project ideas and I would like to collaborate
 
 - ⚡ Fun fact **I love drawing and content creation**
 
